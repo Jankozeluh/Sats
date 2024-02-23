@@ -4,7 +4,6 @@
   "version": "1.0",
   "description": "Converts displayed $ prices to Satoshi. Tested on Amazon and Ebay.",
   "permissions": [
-    "activeTab",
     "storage"
   ],
   "icons": {
